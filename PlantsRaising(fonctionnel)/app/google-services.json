@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "333276905487",
+    "firebase_url": "https://plantsraising-default-rtdb.firebaseio.com",
+    "project_id": "plantsraising",
+    "storage_bucket": "plantsraising.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333276905487:android:80de49ca6f710a2e8f237a",
+        "android_client_info": {
+          "package_name": "fr.marchal.plantsraising"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333276905487-4podkmlql5qgc5olerguc6t3c2smgbli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYtQxRAZZmjy6P4Zd2oGJaqNM7Hww8mfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333276905487-4podkmlql5qgc5olerguc6t3c2smgbli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

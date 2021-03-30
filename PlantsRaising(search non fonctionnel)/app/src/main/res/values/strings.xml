@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Plant\'s Raising</string>
+
+    <!-- Page d'accueil -->
+    <string name="home_page_title">A Découvrir</string>
+    <string name="home_page_last_plant_section">Dernières plantes</string>
+
+    <!-- Page de recherche -->
+    <string name="search_page_title">Recherche</string>
+
+    <!-- Page des favoris-->
+    <string name="collection_page_title">Mes Favoris</string>
+
+    <!-- Page d'ajout de plantes -->
+    <string name="add_plant_page_title">Ajout d\'une plante</string>
+    <string name="add_plant_page_upload_button">Changer Image</string>
+    <string name="add_plant_page_name_input">@string/item_plant_name</string>
+    <string name="add_plant_page_description_input">@string/item_plant_description</string>
+
+    <string-array name="add_plant_page_water_spinner_input">
+        <item>Arrosage : 3 fois par semaine</item>
+        <item>Arrosage : 2 fois par semaine</item>
+        <item>Arrosage : 1 fois par semaine</item>
+        <item>Arrosage : 1 fois toute les 2 semaines</item>
+        <item>Arrosage : 1 fois toute les 3 semaines</item>
+        <item>Arrosage : 1 fois tout les mois</item>
+        <item>Arrosage : 1 fois tout les 2 mois</item>
+        <item>Arrosage : 1 fois tout les 3 mois</item>
+    </string-array>
+
+    <string-array name="add_plant_page_brightness_spinner_input">
+        <item>Exposition : vive -> soleil</item>
+        <item>Exposition : vive -> sans soleil</item>
+        <item>Exposition : mi-vive / mi-ombré </item>
+        <item>Exposition : tamisée</item>
+        <item>Exposition : UV</item>
+    </string-array>
+
+    <string-array name="add_plant_page_warmth_spinner_input">
+        <item>Température Idéale : 10°</item>
+        <item>Température Idéale : 11°</item>
+        <item>Température Idéale : 12°</item>
+        <item>Température Idéale : 13°</item>
+        <item>Température Idéale : 14°</item>
+        <item>Température Idéale : 15°</item>
+        <item>Température Idéale : 16°</item>
+        <item>Température Idéale : 17°</item>
+        <item>Température Idéale : 18°</item>
+        <item>Température Idéale : 19°</item>
+        <item>Température Idéale : 20°</item>
+        <item>Température Idéale : 21°</item>
+        <item>Température Idéale : 22°</item>
+        <item>Température Idéale : 23°</item>
+        <item>Température Idéale : 24°</item>
+        <item>Température Idéale : 25°</item>
+        <item>Température Idéale : 26°</item>
+        <item>Température Idéale : 27°</item>
+        <item>Température Idéale : 28°</item>
+        <item>Température Idéale : 29°</item>
+        <item>Température Idéale : 30°</item>
+        <item>Température Idéale : 31°</item>
+        <item>Température Idéale : 32°</item>
+        <item>Température Idéale : 33°</item>
+        <item>Température Idéale : 34°</item>
+        <item>Température Idéale : 35°</item>
+
+    </string-array>
+
+    <string name="add_plant_page_confirm_button">Confirmer</string>
+
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_search_item">Recherche</string>
+    <string name="bottom_collection_item">Favoris</string>
+    <string name="bottom_add_plant_item">Ajouter</string>
+
+    <!-- popup de détails -->
+    <string name="popup_plant_name">Plant Name</string>
+    <string name="popup_plant_description_title">Description</string>
+    <string name="popup_plant_description_subtitle">Petite Description</string>
+    <string name="popup_plant_water_title">Besoin en eau</string>
+    <string name="popup_plant_water_subtitle">Faible</string>
+    <string name="popup_plant_brightness_title">Besoin en lumière</string>
+    <string name="popup_plant_brightness_subtitle">Tamisé</string>
+    <string name="popup_plant_warmth_title">Température Idéale</string>
+    <string name="popup_plant_warmth_subtitle">Chaud</string>
+
+
+
+    <!-- Plante customise -->
+    <string name="item_plant_name">Nom de la plante</string>
+    <string name="item_plant_description">Description de la plante</string>
+
+</resources>
